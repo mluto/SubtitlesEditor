@@ -1,6 +1,6 @@
 # SubtitlesEditor
 
-ShootingGame is my super test task.
+SubtitlesEditor is my super test task.
 
 ## Usage
 
